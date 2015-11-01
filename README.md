@@ -12,12 +12,17 @@ Um Material é um recurso que pode ser aplicado a uma malha para controlar a sua
 - Doutorando no Programa de Pós-graduação em Modelagem Computacional (PGMC-UFJF)
 
 ## Informações de Contato
-- **E-Mail**: tluis@ice.ufjf.br
-- **Twitter**: tluisrs
+- **E-Mail**: [tluis@ice.ufjf.br](mailto:tluis@ice.ufjf.br)
+- **Twitter**: [tluisrs](https://twitter.com/tluisrs)
 
 ## Links
 - [Unreal Engine 4](https://www.unrealengine.com/what-is-unreal-engine-4)
 - [Código Fonte da Unreal Engine 4](https://github.com/epicgames/UnrealEngine)
+
+### Demos
+- [Unreal Engine 4 Elemental Demo](https://www.youtube.com/watch?v=dD9CPqSKjTU)
+- [A Boy and His Kite: Annotated Features](https://www.youtube.com/watch?v=JNgsbNvkNjE)
+- [UNREAL PARIS 1.2 - Virtual Tour - Unreal Engine 4 | @60fps1080p - OFFICIAL](https://www.youtube.com/watch?v=Y6PQ19BEE24)
 
 ## Programação
 - Introdução: (40min)

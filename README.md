@@ -1,3 +1,9 @@
+# Novo Repositório
+
+Como eu pretendo reutizizar esse material, movi para um novo repositório com nome neutro.
+
+https://github.com/mcleary/UE4-Minicurso
+
 # Criando Materiais com Unreal Engine 4
 Minicurso Computação Gráfica Aplicada a Jogos com Unreal Engine 4.
 
